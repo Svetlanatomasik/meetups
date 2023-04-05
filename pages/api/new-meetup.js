@@ -18,7 +18,7 @@ async function handler(req, res) {
     const meetupsCollection = db.collection("meetups");
 
     console.log("meetupsCollection ", meetupsCollection);
-    console.log("pre resulta ");
+
     const result = await meetupsCollection.insertOne(data);
 
     console.log("result ", result);
