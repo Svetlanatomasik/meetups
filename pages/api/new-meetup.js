@@ -11,8 +11,6 @@ async function handler(req, res) {
       "mongodb+srv://admin:admin@cluster0.yfkraop.mongodb.net/?retryWrites=true&w=majority"
     );
 
-    console.log("client ", client);
-
     const db = client.db();
 
     const meetupsCollection = db.collection("meetups");
