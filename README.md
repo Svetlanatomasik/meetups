@@ -1,4 +1,4 @@
-#meetups
+# Meetups
 
 Technologies that I used in the app:
 
