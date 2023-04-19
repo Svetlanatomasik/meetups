@@ -1,6 +1,9 @@
 Technologies that I used in the app:
+
 -Next.js
+
 -MongoDB
+
 -CSS Modules
 
 This is application 
