@@ -1,3 +1,5 @@
+#meetups
+
 Technologies that I used in the app:
 
 -Next.js
